@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Juego de adivinanzas</title>
+  <link rel="stylesheet" href="style.css">
+  </head>
+<body>
+  <h1>Juego de adivinanzas</h1>
+  <div id="container"
+  <p>¡Adivina la palabra secreta!</p>
+  <input type="text" id="respuesta" placeholder="Escribe tu respuesta aquí">
+  <button id="adivinar">¡Adivinar!</button>
+  <p id="resultado"></p>
+  <script src="script.js"></script>
+  </div>
+</body>
+</html>
